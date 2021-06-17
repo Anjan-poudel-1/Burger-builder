@@ -1,0 +1,12 @@
+.Line{
+    width: 30px;
+    border-radius: 3px;
+    height: 4px;
+    margin-bottom: 4px;
+    background-color: white;
+}
+@media(min-width:500px){
+    .Line{
+        display: none;
+    }
+}

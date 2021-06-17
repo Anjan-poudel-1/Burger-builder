@@ -1,0 +1,12 @@
+.Form{
+    display: block;
+    padding: 30px;
+    width: 60%;
+    text-align: center;
+    box-shadow: 0 2px 3px #ccc;
+    border: 1px solid #eee;
+    margin: 30px auto;
+}
+.Form input{
+    
+}
